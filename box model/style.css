@@ -1,0 +1,17 @@
+#section1
+{
+    border-width: 10px;
+    border-color: rgb(215, 31, 31);
+    border-style:inset;
+     width: 200px;
+     background-color:green ;
+}
+
+#section2
+{
+    border: 40px black solid;
+
+  
+    width: 200px;
+    background-color:aqua ;
+}
